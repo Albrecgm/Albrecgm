@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Albrecgm
+- 👋 Hi, I’m Griffin Albrecht
 - 👀 I’m interested in ... Soccer, fishing, and basketball
 - 🌱 I’m currently learning ... other classes in the ISAT field such as Statistics and thermodynamics
 - 💞️ I’m looking to collaborate on ... Creating an app or game using coding
